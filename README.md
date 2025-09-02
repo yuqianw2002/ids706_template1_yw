@@ -1,6 +1,7 @@
 [![Python Template for IDS706](https://github.com/yuqianw2002/ids706_template1_yw/actions/workflows/main.yml/badge.svg)](https://github.com/yuqianw2002/ids706_template1_yw/actions/workflows/main.yml)
 
 # IDS706_template1_yw
+- A template for IDS706 project
 - Clone/Start the repository locally or use GitHub Codespaces without a container.
 - add the README.md file
 
